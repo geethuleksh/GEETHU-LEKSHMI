@@ -4,23 +4,23 @@
 <h1 align="center">Hi 👋, I'm Geethu Lekshmi</h1>
 
 <h3 align="center">
-Software Developer | Technical Head | Digital Marketing Professional
+ Digital Marketing Professional | Technical Head | Software Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Web+Developer;PHP+Laravel+Developer;Digital+Marketing+Professional" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Digital+Marketing+Professional" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 💻 Software Development and Technical Support Professional
-- 🌐 Experienced in Website Development and Maintenance
-- 🚀 Skilled in PHP, Laravel and MySQL
 - 📈 Experienced in SEO and Digital Marketing
 - 🛒 E-commerce Platform Management
 - 🤖 Interested in AI Tools and New Technologies
+- 🌐 Experienced in Website Development and Maintenance
+- 💻 Software Development and Technical Support Professional
+- 🚀 Skilled in PHP, Laravel and MySQL
 - 📍 Based in Kerala, India
 - 📧 Email: geethulekshmi8@gmail.com
 
