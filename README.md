@@ -91,34 +91,6 @@ Software Developer | Technical Head | Digital Marketing Professional
 </a>
 
 
-
-<a href="https://www.canva.com/">
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</a>
-
-<a href="https://chatgpt.com/">
-<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</a>
-
-<a href="https://claude.ai/">
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</a>
-
-<a href="https://gemini.google.com/">
-<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Quick_Edits-FF69B4?style=for-the-badge"/>
-</a>
-
-
-
-
 </p>
 
 ---
